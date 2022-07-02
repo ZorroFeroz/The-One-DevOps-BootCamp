@@ -1,0 +1,16 @@
+code --install-extension hashicorp.terraform
+code --install-extension ms-azuretools.vscode-azureterraform
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension formulahendry.auto-close-tag
+code --install-extension cschleiden.vscode-github-actions
+code --install-extension GitHub.vscode-pull-request-github
+code --install-extension eamodio.gitlens
+code --install-extension ritwickdey.LiveServer
+code --install-extension TabNine.tabnine-vscode
+code --install-extension redhat.vscode-yaml
+code --install-extension ms-azuretools.vscode-docker
+code --install-extension ms-kubernetes-tools.vscode-kubernetes-tools
+code --install-extension mindaro.mindaro
+code --install-extension ms-kubernetes-tools.vscode-aks-tools
+code --install-extension Okteto.remote-kubernetes
+code --install-extension p1c2u.jenkins
